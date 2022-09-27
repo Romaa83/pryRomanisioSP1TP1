@@ -105,7 +105,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(774, 164);
+=======
+            this.ClientSize = new System.Drawing.Size(780, 164);
+>>>>>>> 644356b80b72582e7e80a0afd6c1440dc3de18ef
             this.Controls.Add(this.btnAtras);
             this.Controls.Add(this.btnSiguiente);
             this.Controls.Add(this.dgvConsultaLibros);
