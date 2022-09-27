@@ -30,7 +30,7 @@ namespace pryRomanisioSP1TP1
             int fm = 0;
             int fmDistribuidora = 0;
             int fmEditorial = 0;
-            StreamReader srDistribuidora = new StreamReader("./pryRomanisioSP1TP1/DISTRIBUIDORA");
+            StreamReader srDistribuidora = new StreamReader("./DISTRIBUIDORA.txt");
             StreamReader srConsultaLibro = new StreamReader("./LIBRO.txt");
             StreamReader srEditorial = new StreamReader("./EDITORIAL.txt");
 
