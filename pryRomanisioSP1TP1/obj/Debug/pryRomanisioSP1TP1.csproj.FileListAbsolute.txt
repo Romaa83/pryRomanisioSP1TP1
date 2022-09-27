@@ -1,0 +1,12 @@
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\bin\Debug\pryRomanisioSP1TP1.exe.config
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\bin\Debug\pryRomanisioSP1TP1.exe
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\bin\Debug\pryRomanisioSP1TP1.pdb
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\obj\Debug\pryRomanisioSP1TP1.csproj.AssemblyReference.cache
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\obj\Debug\pryRomanisioSP1TP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\obj\Debug\pryRomanisioSP1TP1.frmConsultaLibro.resources
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\obj\Debug\pryRomanisioSP1TP1.frmMenu.resources
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\obj\Debug\pryRomanisioSP1TP1.Properties.Resources.resources
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\obj\Debug\pryRomanisioSP1TP1.csproj.GenerateResource.cache
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\obj\Debug\pryRomanisioSP1TP1.csproj.CoreCompileInputs.cache
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\obj\Debug\pryRomanisioSP1TP1.exe
+C:\Users\Roma\source\repos\safas\pryRomanisioSP1TP1\obj\Debug\pryRomanisioSP1TP1.pdb
